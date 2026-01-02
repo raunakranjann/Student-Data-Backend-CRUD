@@ -1,14 +1,4 @@
-# StudentData_API
-### Technologies Used 
-Java Spring Boot 3.5.3 , Maven 3.9.10 , PostgreSql , 
-
-### Dependencies Used 
-Spring Web , Jpa , Postgresql Driver , Thymeleaf 
-
-#### Steps to Use this API 
-Step 1 : Clone this Repo 
-Step 2 : Connect the database i.e change the application.properties ... Database connection Strings 
-Step 3 : Run this program 
+## StudentData_API-TestCases
 
 Get All Data By 
 http://localhost:8080/students
@@ -42,10 +32,6 @@ http://localhost:8080/students/multiple
     "name":"Dev Soni",
     "roll":"22CS11"
 }]
-
-
-
-
 
 
 
